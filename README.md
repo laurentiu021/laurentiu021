@@ -138,4 +138,7 @@ Learning in public, shipping real software, improving every day.
   <a href="https://github.com/laurentiu021/SystemManager/releases/latest">
     <img src="https://img.shields.io/badge/Download%20SysManager-28A745?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
+  <a href="https://github.com/sponsors/laurentiu021">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
 </div>
